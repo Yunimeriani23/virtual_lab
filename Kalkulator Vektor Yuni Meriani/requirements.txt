@@ -1,4 +1,2 @@
 streamlit
 numpy
-IPython.display
-pyplot

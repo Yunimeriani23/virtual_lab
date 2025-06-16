@@ -3,3 +3,4 @@ numpy
 IPython.display
 pyplot
 io
+base64
